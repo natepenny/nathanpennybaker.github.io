@@ -1,15 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Electrical Engineering Portfolio"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to my portfolio. I am an Electrical Engineering student at the University of Oklahoma with experience in power systems, industrial controls, and aerospace avionics.
 
-### Featured Projects
-Below are some of my recent engineering projects. You can view the full details in the [Portfolio](/portfolio/) section.
+Welcome to my portfolio. I am a junior Electrical Engineering student at the University of Oklahoma with a focus on power systems, industrial controls, and aerospace avionics.
+
+Below are my featured projects. You can view the full details for each in the [Portfolio](/portfolio/) section.
 
 {% for post in site.portfolio limit:3 %}
   {% include archive-single.html %}
