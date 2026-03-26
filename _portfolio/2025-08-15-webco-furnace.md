@@ -12,4 +12,4 @@ During my internship at Webco Industries, I was responsible for the wiring, test
 * **Schematic Design:** Recreated complex electrical schematics using **AutoCAD Electrical** to ensure accurate long-term maintenance documentation.
 * **Testing:** Performed electrical troubleshooting and point-to-point continuity testing to validate panel logic before floor deployment.
 
-![Webco Panel](/images/webco-control-panel.png)
+![Webco Panel](/images/Finished_Panel_Interior.png)
